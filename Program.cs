@@ -65,6 +65,9 @@
             //Executing the methods
             t1.Start();
             t2.Start();
+            t3.Start();
+            t4.Start();
+            t5.Start();
             Console.WriteLine("Race has ended");
         }
         static void MoveIt(ref int location)
